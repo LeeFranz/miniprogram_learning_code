@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="flex-horizontal">
+          <view class="flex-item demo-text-1"></view>
+          <view class="flex-item demo-text-2"></view>
+          <view class="flex-item demo-text-3"></view>
+        </view>
+
