@@ -1,7 +1,13 @@
 <!--index.wxml-->
-<view class="flex-horizontal">
+<view class="flex-horizontal" style="flex-direction:row;">
           <view class="flex-item demo-text-1"></view>
           <view class="flex-item demo-text-2"></view>
           <view class="flex-item demo-text-3"></view>
         </view>
+
+<view class="flex-vertical" style="flex-direction:column;">
+          <view class="flex-item-v demo-text-1"></view>
+          <view class="flex-item-v demo-text-2"></view>
+          <view class="flex-item-v demo-text-3"></view>
+</view>
 

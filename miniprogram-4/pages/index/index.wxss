@@ -4,9 +4,19 @@
     display:flex;
 }
 
+.flex-vertical {
+  margin-top: 50rpx;
+  display:flex;
+}
+
 .flex-item {
   width: 200rpx;
   height: 300rpx;
+}
+
+.flex-item-v {
+  width: 300rpx;
+  height: 200rpx;
 }
 
 .demo-text-1{
