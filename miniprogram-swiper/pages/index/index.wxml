@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<swiper indicator-dots="{{indicatorDots}}" autoplay="true" circular="{{circular}}" vertical="{{vertical}}"
+        interval="{{interval}}" duration="{{duration}}" previous-margin="{{previousMargin}}px" next-margin="{{nextMargin}}px">
+<block wx:for="{{background}}" wx:key="*this">
+<swiper-item class="swiper-item {{item}}"></swiper-item>
+</block>
+</swiper>

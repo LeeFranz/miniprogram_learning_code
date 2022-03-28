@@ -1,0 +1,30 @@
+<!--index.wxml-->
+<!-- <view>
+pdd is here
+<text user-select="true">12342436754523</text>
+</view>
+
+<rich-text nodes="<h1 style='color: red;'>PDD</h1>"></rich-text>
+
+<button type="default">Test Button</button>
+<button type="primary">Test Button</button>
+<button type="warn">Test Button</button>
+
+<button size="mini">Test Button</button>
+<button size="default">Test Button</button>
+
+<button plain="true">Test Button</button>
+<button >Test Button</button> -->
+
+<!-- <image></image> -->
+<image src="/test.png" mode="aspectFill"></image>
+
+
+
+
+
+
+
+
+
+
